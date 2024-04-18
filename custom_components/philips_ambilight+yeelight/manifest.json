@@ -4,5 +4,6 @@
   "documentation": "https://github.com/jomwells/ambilight-yeelight",
   "dependencies": [],
   "codeowners": ["@jomwells"],
+  "version": "v1.0.2",
   "requirements": []
 }
